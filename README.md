@@ -10,3 +10,7 @@ I developed these workbooks/sheets and the development will continue until infor
 
 ## Support?
 If you find this and want to use the sanitized workbooks to help with your situation or if you want Excel help with something else please reach out on LinkedIn. I like Excel and I've gotten good at it, but I can't commit enough time to make money off Excel work alone, so here we are.
+
+
+
+Note (20231225): I need to sanitize the workbooks enough for the open internet. I made a version for sharing around my business (military), so the information I left wasn't a concern. Y'all are going to get lorem ipsum lol
