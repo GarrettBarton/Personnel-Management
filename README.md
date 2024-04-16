@@ -1,16 +1,21 @@
 # Personnel-Management
-Sanitized documents and documentation for personnel management leveraging MS Teams and cloud-based Excel Online to enable efficient and effective split-based personnel management. I'll attach some articles that formed the theoretical foundations.
+Sanitized documents and documentation for personnel management leveraging MS Teams and cloud-based Excel Online to enable efficient and effective split-based personnel management of Marine companies. I'll attach some articles that formed the theoretical foundations.
 
+## Contents
+- Admin Tracker: Used for a recall roster, medical hitlist tracking, event rosters (AKA go/no-go rosters), a PME (Professional Military Education) tracker, company-level billets, and a summary worksheet for meetings and quick visuals.
+- Duty Tracker: Used to track duty allocations. Duty is the security role that almost everyone takes for ~24 hours routinely.
+- Training Tracker: Used to track Marine company annual training--i.e., what you'd find on MCTIMS.
+- Contacts: Used to record contact information that a group may find useful. Why write it down in a book when you can write it down for everyone?
 
 ## Why make these?
 Managing large groups split over several buildings across a city-sized area with the need to manage dozens of trackable training, administrative, and personal aspects becomes too much without leveraging technology. I'm putting the documents here as a portfolio as LinkedIn is more of a long-form interactive resume.
 
-## Future development?
+## Future Development
 I developed these workbooks/sheets and the development will continue until information requirements cease (so never). These are meant to be workspaces specifically designed to communicate information requirements.
 
-## Support?
+## Support
 If you find this and want to use the sanitized workbooks to help with your situation or if you want Excel help with something else please reach out on LinkedIn. I like Excel and I've gotten good at it, but I can't commit enough time to make money off Excel work alone, so here we are.
 
 
 
-Note (20231225): I need to sanitize the workbooks enough for the open internet. I made a version for sharing around my business (military), so the information I left wasn't a concern. Y'all are going to get lorem ipsum lol
+Note (20240416): I used random names, dates, etc. and only really included the names to how the visuals/charts be filled so you can see what they would look like. Don't worry about a senior rank being 19 years old...I didn't check any of that😂
